@@ -30,6 +30,6 @@
     "name": "Select_public_users1",
     "pageId": "Page2",
     "runBehaviour": "AUTOMATIC",
-    "userSetOnLoad": false
+    "userSetOnLoad": true
   }
 }
