@@ -5,7 +5,7 @@
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
   "bottomRow": 56,
   "boxShadow": "none",
-  "defaultText": "",
+  "defaultText": "1",
   "dynamicBindingPathList": [
     {
       "key": "accentColor"
@@ -15,6 +15,7 @@
     }
   ],
   "dynamicHeight": "FIXED",
+  "dynamicTriggerPathList": [],
   "iconAlign": "left",
   "inputType": "TEXT",
   "isDisabled": false,
